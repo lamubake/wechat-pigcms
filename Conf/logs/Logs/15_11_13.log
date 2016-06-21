@@ -1,0 +1,1336 @@
+[ 2015-11-13T02:33:56+08:00 ] 180.76.15.26 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.265625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.281250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.343750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.359375s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.359375s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.375000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031250s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.406250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.421875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T02:34:56+08:00 ] 180.76.15.8 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T05:27:30+08:00 ] 112.90.78.25 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.062500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.062500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.062500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T08:30:09+08:00 ] 61.135.189.98 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.062500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.062500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.062500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:02:38+08:00 ] 107.150.42.186 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.062500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.062500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:09:38+08:00 ] 180.76.15.156 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-11-13T09:11:20+08:00 ] 180.76.15.27 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:40:51+08:00 ] 106.58.252.33 /index.php?g=System&m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.093750s ]
+INFO: [ view_template ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.125000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.171875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.171875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.171875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.171875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.171875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.171875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:40:52+08:00 ] 106.58.252.33 /index.php?g=System&m=Admin&a=verify
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:41:11+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.093750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.093750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.093750s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.093750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.093750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.093750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:41:20+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:41:21+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-1.531250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-1.531250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-1.546875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-1.546875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-1.546875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-1.546875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-1.546875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-1.562500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:42:22+08:00 ] 106.58.252.33 /index.php?g=System&m=Database&a=index&pid=185&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.046875s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.078125s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.078125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.078125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.078125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.078125s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.078125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:42:24+08:00 ] 106.58.252.33 /index.php?g=System&m=Clear&a=index&pid=90&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./tpl/System/Public/footer.html): failed to open stream: No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Template\ThinkTemplate.class.php 第 624 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:42:29+08:00 ] 106.58.252.33 /index.php?g=System&m=Clear&a=delall
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/2442d567be6d7de91b47b79224b63b29.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/2c4ca75e1010d7886cbdaa6950d0757f.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/303e6d92033a28d1a01d88f268e6c9a7.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/4482938bfbf96df422d8d2af85780aa3.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/5991cd787012e89c8b3925e1ee31e23d.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/63b348fe8a8eeac356a5620b5f1acf22.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/911137dc81a09fbb55eaf155401e102a.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/c08e93812f5d1149c904a47e38ca64bb.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/e524f0d95c205d295147669ed06b7949.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/0ac5617eb2d3cba46a940e61fff06d9f.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/290787b61e1d188e50b8f6a79194f6f3.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/483971c17922e8e1c1e3235e47c01942.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/70671f3fb4cc556d45e03bff5207b695.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/8f6c57454ea25aa16c4571fcdd77c3c5.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/9fa5b0f4bd07d3020ed789e6f41f32bb.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/ae7dad24e9d30cd20faddcd1f9b24e5f.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/f3cad24ef9b6fcc3bfdf30a1600fbf4b.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/User/abcb2dc0cdf6cecdbc543733dfd2e7d4.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Wap/05353df874d7e3474f6d691a929a365e.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Wap/89780432623a2771fb706a6f23d0f449.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Wap/cf1eac8348e2e0f51e448d40384f1003.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] opendir(./conf/logs/Data/_fields,./conf/logs/Data/_fields):  D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 101 行.
+NOTIC: [2] opendir(./conf/logs/Data/_fields): failed to open dir: No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 101 行.
+NOTIC: [2] readdir() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 102 行.
+NOTIC: [2] closedir() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 113 行.
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.109375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:42:33+08:00 ] 106.58.252.33 /index.php?g=System&m=SystemIndex&a=index&pid=133&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 110 行.
+NOTIC: [2] mysql_free_result() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 82 行.
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 110 行.
+NOTIC: [2] mysql_free_result() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 82 行.
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T09:42:33+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.312500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.312500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.312500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.312500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.312500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.328125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.328125s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.328125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:09:43+08:00 ] 119.147.3.188 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:09:43+08:00 ] 180.153.205.253 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093750s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.125000s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.125000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.125000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.125000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.140625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.140625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:11:48+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:11:50+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:11:50+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.609375s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.609375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.609375s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.609375s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.609375s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.609375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.609375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.609375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:19:32+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:19:34+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:19:36+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.546875s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.546875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.546875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.546875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.546875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.546875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.562500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.562500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:20:58+08:00 ] 106.58.252.33 /index.php?g=System&m=Clear&a=index&pid=211&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./tpl/System/Public/footer.html): failed to open stream: No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Template\ThinkTemplate.class.php 第 624 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:21:00+08:00 ] 106.58.252.33 /index.php?g=System&m=Clear&a=delall
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/Home/e524f0d95c205d295147669ed06b7949.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [8] Undefined variable: fullpath D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/70671f3fb4cc556d45e03bff5207b695.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/8f6c57454ea25aa16c4571fcdd77c3c5.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/ae7dad24e9d30cd20faddcd1f9b24e5f.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] rmdir(./conf/logs/Cache/System/f3cad24ef9b6fcc3bfdf30a1600fbf4b.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 94 行.
+NOTIC: [2] opendir(./conf/logs/Data/_fields,./conf/logs/Data/_fields):  D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 101 行.
+NOTIC: [2] opendir(./conf/logs/Data/_fields): failed to open dir: No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 101 行.
+NOTIC: [2] readdir() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 102 行.
+NOTIC: [2] closedir() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\ClearAction.class.php 第 113 行.
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:21:05+08:00 ] 106.58.252.33 /index.php?g=System&m=Site&a=index&pid=6&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of SiteAction::insert() should be compatible with BaseAction::insert($name = '', $back = '/index') D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 2 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2] unlink(./Conf/logs/~runtime.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\SiteAction.class.php 第 12 行.
+NOTIC: [2048] Non-static method updateSync::curl_get_data() should not be called statically D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\updateSync.class.php 第 32 行.
+NOTIC: [2] Missing argument 1 for updateSync::curl_get_data(), called in D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\updateSync.class.php on line 32 and defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\updateSync.class.php 第 186 行.
+NOTIC: [2048] Non-static method updateSync::vs() should not be called statically D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\updateSync.class.php 第 191 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.312500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 160 行.
+NOTIC: [8] Undefined variable: token D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 175 行.
+NOTIC: [8] Undefined variable: token D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 183 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 220 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 224 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 228 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 232 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 236 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 240 行.
+NOTIC: [8] Use of undefined constant checked - assumed 'checked' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\290787b61e1d188e50b8f6a79194f6f3.php 第 349 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.328125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.343750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.343750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.343750s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.343750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.359375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.359375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:27:47+08:00 ] 106.58.252.33 /index.php?g=System&m=SystemIndex&a=index&pid=133&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 110 行.
+NOTIC: [2] mysql_free_result() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 82 行.
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 110 行.
+NOTIC: [2] mysql_free_result() expects parameter 1 to be resource, boolean given D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Db\DbMysql.class.php 第 82 行.
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:27:47+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.343750s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.343750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.343750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.343750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.343750s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.343750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.359375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.359375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T10:27:54+08:00 ] 106.58.252.33 /index.php?g=System&m=Update&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [8] Undefined variable: chanageinfo D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\System\UpdateAction.class.php 第 25 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.343750s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.359375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.375000s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.375000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.375000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.375000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.375000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.375000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T11:16:25+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T11:16:27+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T11:16:28+08:00 ] 106.58.252.33 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.406250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.406250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.406250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.406250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.406250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.406250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.421875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.421875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T11:16:31+08:00 ] 180.76.15.147 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T11:18:30+08:00 ] 180.76.15.26 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T16:25:27+08:00 ] 221.6.207.246 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: HTTP_USER_AGENT D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-1.812500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-1.859375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-1.937500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-1.953125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-1.953125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-1.968750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.046875s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-2.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-2.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-11-13T17:11:21+08:00 ] 171.13.14.46 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.062500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.062500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.062500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T19:32:02+08:00 ] 207.46.13.44 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.031250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.046875s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-17.640625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.296875s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-17.937500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.609375s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-18.546875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-18.562500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-18.562500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-18.562500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031250s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-21.562500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-21.578125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-11-13T20:41:38+08:00 ] 180.153.81.163 /index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.046875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.062500s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.343750s ]
+INFO: [ view_template ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.375000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093750s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.468750s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.468750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.468750s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.468750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.531250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.531250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T20:41:38+08:00 ] 112.90.78.22 /index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.062500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.062500s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.328125s ]
+INFO: [ view_template ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.359375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.437500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.437500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.437500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.453125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.500000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.515625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T20:58:44+08:00 ] 220.181.158.109 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T20:58:45+08:00 ] 220.181.158.109 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_USER_AGENT D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-13T21:43:11+08:00 ] 180.76.15.152 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: wx.eake.cnnomsite D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: wx.eake.cn D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\wxeakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/0/b/0bd072374c8be52c228aba5c508adedc.php): No such file or directory D:\wwwroot\wxeakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\wxeakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

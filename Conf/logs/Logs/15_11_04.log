@@ -1,0 +1,603 @@
+[ 2015-11-04T00:14:16+08:00 ] 120.39.105.59 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: w.eake.cnnomsite D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: w.eake.cn D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.062500s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.062500s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.062500s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T00:14:49+08:00 ] 120.39.105.59 /index.php?g=Home&m=Index&a=solution
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\5991cd787012e89c8b3925e1ee31e23d.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\5991cd787012e89c8b3925e1ee31e23d.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T00:14:53+08:00 ] 120.39.105.59 /index.php?g=Home&m=Index&a=navigation
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\2442d567be6d7de91b47b79224b63b29.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\2442d567be6d7de91b47b79224b63b29.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015625s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015625s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015625s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T00:14:55+08:00 ] 120.39.105.59 /index.php?g=Home&m=Index&a=spread
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\4482938bfbf96df422d8d2af85780aa3.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\4482938bfbf96df422d8d2af85780aa3.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015625s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015625s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015625s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T00:14:57+08:00 ] 120.39.105.59 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\303e6d92033a28d1a01d88f268e6c9a7.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\303e6d92033a28d1a01d88f268e6c9a7.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:26:17+08:00 ] 116.52.93.134 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: w.eake.cnnomsite D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 43 行.
+NOTIC: [8] Undefined index: w.eake.cn D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 419 行.
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 53 行.
+NOTIC: [8] Undefined variable: type D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 63 行.
+NOTIC: [8] Undefined index: showNotice D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\Home\IndexAction.class.php 第 77 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.234375s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+NOTIC: [8] Undefined index: uid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\Home\e524f0d95c205d295147669ed06b7949.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.250000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.296875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.296875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.296875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.296875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.328125s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.328125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-11-04T22:26:32+08:00 ] 116.52.93.134 /index.php?g=System&m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.109375s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.109375s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.109375s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.109375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.125000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.125000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:26:33+08:00 ] 116.52.93.134 /index.php?g=System&m=Admin&a=verify
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:26:53+08:00 ] 116.52.93.134 /index.php?g=System&m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:26:54+08:00 ] 116.52.93.134 /index.php?g=System&m=Admin&a=verify
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:20+08:00 ] 116.52.93.134 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.046875s ]
+INFO: [ view_template ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.078125s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.078125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.093750s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.093750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.093750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.093750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:21+08:00 ] 116.52.93.134 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:22+08:00 ] 116.52.93.134 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.687500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.687500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.703125s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.703125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.703125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.703125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.718750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.718750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:24+08:00 ] 116.52.93.134 /index.php?g=System&m=System&a=menu&pid=3&level=2&title=%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.046875s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.062500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:38+08:00 ] 116.52.93.134 /index.php?g=System&m=Group&a=index&pid=25&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.078125s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.093750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.109375s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.109375s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.109375s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.109375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.109375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.109375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:39+08:00 ] 116.52.93.134 /index.php?g=System&m=User_group&a=index&pid=48&level=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.046875s ]
+INFO: [ view_template ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.078125s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.078125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.078125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.078125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.093750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.093750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:45+08:00 ] 116.52.93.134 /index.php?g=System&m=User_group&a=edit&id=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\23da2f4b599cc18574264bc2ec463c5c.php 第 42 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.078125s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.078125s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.078125s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.078125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.078125s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.078125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:50+08:00 ] 116.52.93.134 /index.php?g=System&m=User_group&a=edit
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:28:51+08:00 ] 116.52.93.134 /index.php?g=System&m=User_group&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 14 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+NOTIC: [8] Undefined index: username D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\b15a6f5abc04991d5de23405aba73860.php 第 47 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:40:11+08:00 ] 116.52.111.97 /index.php?g=System&m=System&a=index
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015625s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015625s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015625s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.031250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:40:14+08:00 ] 116.52.111.97 /index.php?g=System&m=System&a=menu
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046875s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046875s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.046875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T22:40:15+08:00 ] 116.52.111.97 /index.php?g=System&m=System&a=main
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant STATICS already defined D:\wwwroot\weakecn\wwwroot\PigCms\Lib\Action\BaseAction.class.php 第 158 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.656250s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant SERVER_SOFTWARE - assumed 'SERVER_SOFTWARE' D:\wwwroot\weakecn\wwwroot\Conf\logs\Cache\System\70671f3fb4cc556d45e03bff5207b695.php 第 15 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.656250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.656250s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.656250s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.656250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.656250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] unlink(./Conf/logs/Temp/c/3/c33f73676852b22dc0fdea14aebb7335.php): No such file or directory D:\wwwroot\weakecn\wwwroot\Lib\Driver\Cache\CacheFile.class.php 第 176 行.
+NOTIC: [8] Undefined variable: word_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+NOTIC: [8] Undefined variable: xing_array D:\wwwroot\weakecn\wwwroot\PigCms\Lib\ORG\Susceptible.class.php 第 45 行.
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.656250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run AccessCount Behavior [ RunTime:-0.671875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
